@@ -13,7 +13,7 @@ namespace Company.Function
 {
     public static class GetResumeCounter
     {
-        [FunctionName("GetAndUpdateCounter")]
+        [FunctionName("GetResumeCounter")]
         public static async Task<HttpResponseMessage> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
             [CosmosDB(
