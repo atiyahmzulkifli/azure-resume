@@ -6,3 +6,6 @@ I'm joining the ACG project by A Cloud Guru, by making my own resume using Azure
 
 - Front ent folder contains the website.
 - main.js contains visitor counter code.
+- Backend contains API to Azure Functions.
+
+  webpage: https://azureresumeatiyah.azureedge.net/
